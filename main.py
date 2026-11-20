@@ -15,8 +15,10 @@ stories besides, from seven regions.
 
 The picture in assets/entry.png is a broadsheet front page drawn for that
 day: a masthead naming Thursday 19 November 2026, the Beijing summit as the
-lead story with a drawn globe, a grid of 28 sourced stories across seven
-regions, and an "In Brief" band of 12 more -- 41 stories in all, every item
+lead story beside a drawn world map marking seven regions, three hero
+pictures (the Beijing handshake, Van Gogh's record $190.4m sale, Voyager 1
+at one light-day), a grid of 28 sourced stories across seven regions, and a
+numbered "In Brief" band of 12 more -- 41 stories in all, every item
 carrying its source, so a reader who missed the day can tell what happened
 from the page alone.
 
